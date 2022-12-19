@@ -1,0 +1,8 @@
+-> Strings
+-> Integer
+-> Float
+-> Boolean
+
+First character is always at [0] or starts at the 0th position
+
+Pulling out an element from a particular string is called as subscripting.
