@@ -1,0 +1,10 @@
+Printing: 
+print("Hello World")
+
+Printing the length of the string:
+print(len(input("What is your name?")))
+
+Assigning strings to variables:
+name = input(:What is your name?")
+print(name)
+
