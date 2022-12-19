@@ -1,0 +1,17 @@
+Type Error:
+A type of error that can occur is a string and integer cannot be string concatenated.
+
+Type Checking:
+Func: type(variable)
+
+Ex: print(type(num_char))
+
+Type Conversion:
+Converting one kind of data type to another kind of data type
+Func: str(variable)
+
+Ex: str(num_char) and then you can save it as, 
+new_num_char = str(num_char)
+
+
+We can use str, int and float before the variable to convert it from the present data type to the required data type.
