@@ -15,3 +15,10 @@ new_num_char = str(num_char)
 
 
 We can use str, int and float before the variable to convert it from the present data type to the required data type.
+
+Mathematical Operations:
+3+5-> Addition
+7-4-> Subtraction
+3*2-> Multiplication
+6/3-> Division
+2**3-> Exponential or Power
