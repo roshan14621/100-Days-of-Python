@@ -1,0 +1,20 @@
+Number Manipulation:
+
+score = score + 1 -----> score += 1
+
+
+F-String:
+
+Its basically used to simplify code by removing unecessary amount of type conversions if they are lot in number.
+Put te letter 'f' in front of a string before double quotes(" "). 
+
+
+Example Problem: Life in Works:-
+
+age = input("What is your current age?")
+year = 90 - int(age)
+day_year = int(year)*365
+week_year = int(year)*52
+month_year = int(year)*12
+
+print(f"You have {day_year}days, {week_year}weeks, and {month_year}months left.")
