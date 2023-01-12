@@ -1,0 +1,10 @@
+Formula: 
+weight(in Kg)/ (height)^2 (in m^2)
+
+Program:
+
+height = input("Enter your height in m: ")
+weight = input("Enter your weight in kg: ")
+
+bmi = float(weight) / (float(height)**2)
+print(int(bmi))
