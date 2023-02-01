@@ -1,0 +1,22 @@
+Syntax:
+
+if condition:
+do this
+
+else:
+do this
+
+Example Problem:
+
+To check if given no. is even or odd
+
+number = int(input("Which number do you want to check?"))
+if number % 2 == 0:
+print("This is an even number.")
+
+else:
+print("This is an odd number.")
+
+Note:
+6 / 2 = 3 -> Gives quotient
+6 % 2 = 0 -> Gives remainder
